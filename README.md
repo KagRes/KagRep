@@ -1,2 +1,2 @@
 # KagRep
-just a test for study
+just a test for studu
